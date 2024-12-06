@@ -1,7 +1,16 @@
 body {
-    background-color: grey; /* Change le fond en gris */
+    background-color: rgb(56, 60, 2); /* Change le fond en gris */
 }
 
 h1 {
     font-size: 64px;
+    color: rgb(218, 224, 181);
+}
+
+h2 {
+    color: rgb(218, 224, 181);
+}
+
+ul {
+    color: rgb(218, 224, 181);
 }
